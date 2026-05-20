@@ -6,7 +6,7 @@
   
 
   
-  <h1>Merhaba! 👋 Ben Zeynel Demirdag</h1>
+  <h1>Merhaba! Ben Zeynel Demirdag</h1>
   
   <p>
     SOC home Lab ve kendimi SIEM,SOAR,FIREWALL teknolojilerini kullanarak Blue Team olarak geliştiriyorum
@@ -16,7 +16,7 @@
   
 </div>
 
-## 🚀 Şu Anda Neler Yapıyorum?
+## Şu Anda Neler Yapıyorum?
 
 - 💻 Şu anda **SOC Home LAB** üzerinde çalışıyorum. (veya: **Dart ve Flutter** ile mobil uygulamalar geliştiriyorum.)
 - 🧠 **[SIEM,SOAR,Splunk Enterprise,Phantom,FortiGate Firewall Ürünleri,Active Directory gibi]** hakkında bilgi ve tecrübe edinmeye odaklanmış durumdayım.
