@@ -55,10 +55,11 @@
 
 | Project | Description | Technologies | Links |
 | :--- | :--- | :--- | :--- |
+| **AIR WEB** | Animated aviation technology website explaining aircraft mechanics, internal systems, and national aviation platforms. | HTML, CSS, JavaScript, SVG | [Repo](https://github.com/zeyneldemirdag/A-R-WEB) · [Live Demo](https://zeyneldemirdag.github.io/A-R-WEB/) |
+| **Knowledge Atlas** | Animated personal knowledge atlas for science, technology, future systems, and book notes. | HTML, CSS, JavaScript, Canvas | [Repo](https://github.com/zeyneldemirdag/A-R-WEB/tree/main/bilgi-atlasi) · [Live Demo](https://zeyneldemirdag.github.io/A-R-WEB/bilgi-atlasi/) |
+| **Pazarix E-Commerce Experience** | Modern e-commerce interface with product search, category filtering, cart drawer, checkout interaction, and animated feedback. | HTML, CSS, JavaScript | Private repository |
 | **Personal Portfolio Website** | Animated professional portfolio with About, Projects, AI Lab sections, profile image, and a Node.js contact backend. | HTML, CSS, JavaScript, Node.js | In progress |
 | **Curriculum Intelligence Framework using GNN** | Research-focused work on curriculum and technology gap analysis using semantic embeddings, knowledge graphs, and Graph Neural Networks. | SBERT, NLP, Knowledge Graphs, GNN | Research project |
-| **Website Practice Series** | A practical web development series focused on responsive interfaces, form flows, and backend data handling. | HTML, CSS, PHP, SQL | In progress |
-| **A-R-WEB** | A modern aviation technology website explaining aircraft mechanics, internal systems, and national aviation platforms. | HTML, CSS, JavaScript, SVG | [Repo](https://github.com/zeyneldemirdag/A-R-WEB) · [Live Demo](https://zeyneldemirdag.github.io/A-R-WEB/) |
 
 ---
 
