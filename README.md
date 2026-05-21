@@ -23,7 +23,7 @@
 
 ## About
 
-- I develop responsive web interfaces, landing pages, and practical full-stack web projects.
+- I develop responsive web interfaces, landing pages, dashboards, and practical full-stack web projects.
 - I focus on clean UI structure, interactive frontend behavior, and readable implementation.
 - On the backend side, I work with API design, data handling, database connections, and basic system architecture.
 - I present projects with clear documentation, live demos when possible, and structured technical summaries.
@@ -38,9 +38,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -55,6 +55,8 @@
 
 | Project | Description | Technologies | Links |
 | :--- | :--- | :--- | :--- |
+| **Rezerva Appointment Management System** | Business dashboard interface with booking form, live preview, schedule cards, team blocks, active navigation states, and animated feedback. | HTML, CSS, JavaScript | [Repo](https://github.com/zeyneldemirdag/A-R-WEB/tree/main/rezerva) |
+| **BMI & Blood Pressure Risk App** | University Flutter project for BMI calculation, blood pressure input, hypertension risk prediction flow, and local history tracking. | Flutter, Dart, HTTP API, Shared Preferences | [Repo](https://github.com/zeyneldemirdag/A-R-WEB/tree/main/bmi-blood-pressure-risk-app) |
 | **AIR WEB** | Animated aviation technology website explaining aircraft mechanics, internal systems, and national aviation platforms. | HTML, CSS, JavaScript, SVG | [Repo](https://github.com/zeyneldemirdag/A-R-WEB) · [Live Demo](https://zeyneldemirdag.github.io/A-R-WEB/) |
 | **Knowledge Atlas** | Animated personal knowledge atlas for science, technology, future systems, and book notes. | HTML, CSS, JavaScript, Canvas | [Repo](https://github.com/zeyneldemirdag/A-R-WEB/tree/main/bilgi-atlasi) · [Live Demo](https://zeyneldemirdag.github.io/A-R-WEB/bilgi-atlasi/) |
 | **Pazarix E-Commerce Experience** | Modern e-commerce interface with product search, category filtering, cart drawer, checkout interaction, Python backend endpoints, and animated feedback. | HTML, CSS, JavaScript, Python | [Repo](https://github.com/zeyneldemirdag/deneme-repo) |
@@ -66,8 +68,9 @@
 ## Current Focus
 
 ```text
-Frontend       Responsive UI, modern CSS, JavaScript, React fundamentals
-Backend        REST APIs, Node.js, PHP, SQL, database-driven workflows
+Frontend       Responsive UI, modern CSS, JavaScript, dashboard interfaces
+Backend        REST APIs, Node.js, PHP, Python, SQL, database-driven workflows
+Mobile         Flutter, Dart, form-based mobile UI, local storage
 AI             Semantic embeddings, NLP pipelines, graph-based modeling
 DevOps         Git, GitHub, project documentation, deployment readiness
 Security       SOC, SIEM, SOAR, firewall concepts, secure development mindset
