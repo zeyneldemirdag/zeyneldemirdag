@@ -1,79 +1,91 @@
 <div align="center">
-  
-  <a href="https://github.com/Zeynel-Demirdag">
-    <img src="https://komarev.com/ghpvc/?username=Zeynel-Demirdag&style=for-the-badge" alt="Profil Ziyaretçi Sayısı" />
-  </a>
-  
 
-  
-  <h1>Merhaba! Ben Zeynel Demirdag</h1>
-  
+  <img src="https://komarev.com/ghpvc/?username=zeyneldemirdag&style=for-the-badge&color=0e75b6" alt="Profile views" />
+
+  <h1>Merhaba, ben Zeynel Demirdağ</h1>
+
+  <h3>Frontend & Backend Developer | Web Projeleri Geliştiriyorum</h3>
+
   <p>
-    SOC home Lab ve kendimi SIEM,SOAR,FIREWALL teknolojilerini kullanarak Blue Team olarak geliştiriyorum
+    Modern, responsive ve kullanıcı odaklı web arayüzleri geliştiriyorum. Frontend tarafında temiz tasarım ve etkileşimli deneyimlere, backend tarafında ise düzenli API yapısı, veri yönetimi ve sürdürülebilir kod mimarisine odaklanıyorum.
   </p>
-  
-  ---
-  
-</div>
 
-## Şu Anda Neler Yapıyorum?
-
-- 💻 Şu anda **SOC Home LAB** üzerinde çalışıyorum. (veya: **Dart ve Flutter** ile mobil uygulamalar geliştiriyorum.)
-- 🧠 **[SIEM,SOAR,Splunk Enterprise,Phantom,FortiGate Firewall Ürünleri,Active Directory gibi]** hakkında bilgi ve tecrübe edinmeye odaklanmış durumdayım.
-- 📧 Bana ulaşmak isterseniz: **[z.dmrdg15@gmail.com]**
-
-
----
-
-## 🛠️ Kullandığım Teknolojiler (Tech Stack)
-
-Kullanmakta olduğum ve kullandığım diller ve araçlar
-
-| Alan | Teknolojiler |
-| :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Mobil** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| **Veritabanı** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Araçlar** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
-
----
-
-## 📊 GitHub İstatistiklerim 
-
-Bu kısım, profilinize dinamizm katar. GitHub istatistiklerinizi otomatik olarak gösteren görseller ekleyebilirsiniz.
-
-<div align="center">
-  
-  ### Genel İstatistikler
-  
-  [![Zeynel-Demirdag'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Zeynel-Demirdag&show_icons=true&theme=buefy&hide_border=true)](https://github.com/Zeynel-Demirdag)
-  
-  ### En Çok Kullanılan Diller
-  
-  [![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeynel-Demirdag&layout=compact&theme=buefy&hide_border=true)](https://github.com/Zeynel-Demirdag)
-  
-
-  
-</div>
-
----
-
-## 🔗 Benimle İletişime Geçin
-
-<div align="center">
-  
+  <a href="mailto:z.dmrdg15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-z.dmrdg15%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://linkedin.com/in/zeyneldemirdag">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-zeyneldemirdag-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  
 </div>
 
-<br>
+---
 
-<div align="right">
-  
-  ✨ Kodlamaya Tutkuyla Devam!
-  
+## Hakkımda
+
+- Web arayüzleri, landing page'ler ve tek sayfa uygulamalar geliştiriyorum.
+- HTML, CSS, JavaScript ve React ekosisteminde kendimi sürekli geliştiriyorum.
+- Backend tarafında Node.js, API geliştirme, veritabanı bağlantıları ve temel sistem tasarımına odaklanıyorum.
+- Yayınlanmış projelerimi düzenli, okunabilir README dosyaları ve canlı demo linkleriyle sunmayı önemsiyorum.
+- Siber güvenlik tarafındaki SOC, SIEM, SOAR ve firewall ilgimi web geliştirme bakış açımla birleştiriyorum.
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+
+</div>
+
+---
+
+## Öne Çıkan Projeler
+
+| Proje | Açıklama | Teknolojiler | Linkler |
+| :--- | :--- | :--- | :--- |
+| **A-R-WEB** | Uçakların çalışma prensiplerini, iç mekanizmalarını ve Türkiye'nin öne çıkan hava araçlarını anlatan modern tek sayfalık web sitesi. | HTML, CSS, JavaScript, SVG | [Repo](https://github.com/zeyneldemirdag/A-R-WEB) · [Canlı Demo](https://zeyneldemirdag.github.io/A-R-WEB/) |
+
+> Yeni frontend ve backend projelerimi burada düzenli olarak paylaşacağım.
+
+---
+
+## Odaklandığım Alanlar
+
+```text
+Frontend       Responsive UI, modern CSS, React, component mantığı
+Backend        REST API, Node.js, Express, database bağlantıları
+Deployment     GitHub Pages, proje dokümantasyonu, canlı demo hazırlığı
+Security       SOC, SIEM, SOAR, firewall teknolojileri ve güvenli geliştirme
+```
+
+---
+
+## GitHub İstatistikleri
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zeyneldemirdag&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyneldemirdag&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+  <strong>İletişim için:</strong> <a href="mailto:z.dmrdg15@gmail.com">z.dmrdg15@gmail.com</a>
+
 </div>
