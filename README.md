@@ -2,12 +2,12 @@
 
   <img src="https://komarev.com/ghpvc/?username=zeyneldemirdag&style=for-the-badge&color=0e75b6" alt="Profile views" />
 
-  <h1>Merhaba, ben Zeynel Demirdağ</h1>
+  <h1>Hi, I'm Zeynel Demirdag</h1>
 
-  <h3>Frontend & Backend Developer | Web Projeleri Geliştiriyorum</h3>
+  <h3>Software Developer | Frontend, Backend & AI-Focused Systems</h3>
 
   <p>
-    Modern, responsive ve kullanıcı odaklı web arayüzleri geliştiriyorum. Frontend tarafında temiz tasarım ve etkileşimli deneyimlere, backend tarafında ise düzenli API yapısı, veri yönetimi ve sürdürülebilir kod mimarisine odaklanıyorum.
+    I build modern, responsive, and user-focused web experiences while developing backend foundations for APIs, data flow, and maintainable system structure. I am especially interested in combining web development with AI, semantic analysis, and graph-based intelligence.
   </p>
 
   <a href="mailto:z.dmrdg15@gmail.com">
@@ -21,17 +21,17 @@
 
 ---
 
-## Hakkımda
+## About
 
-- Web arayüzleri, landing page'ler ve tek sayfa uygulamalar geliştiriyorum.
-- HTML, CSS, JavaScript ve React ekosisteminde kendimi sürekli geliştiriyorum.
-- Backend tarafında Node.js, API geliştirme, veritabanı bağlantıları ve temel sistem tasarımına odaklanıyorum.
-- Yayınlanmış projelerimi düzenli, okunabilir README dosyaları ve canlı demo linkleriyle sunmayı önemsiyorum.
-- Siber güvenlik tarafındaki SOC, SIEM, SOAR ve firewall ilgimi web geliştirme bakış açımla birleştiriyorum.
+- I develop responsive web interfaces, landing pages, and practical full-stack web projects.
+- I focus on clean UI structure, interactive frontend behavior, and readable implementation.
+- On the backend side, I work with API design, data handling, database connections, and basic system architecture.
+- I present projects with clear documentation, live demos when possible, and structured technical summaries.
+- My current technical direction combines frontend, backend, AI workflows, and graph-based data analysis.
 
 ---
 
-## Tech Stack
+## Core Stack
 
 <div align="center">
 
@@ -42,8 +42,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
@@ -52,29 +51,30 @@
 
 ---
 
-## Öne Çıkan Projeler
+## Featured Projects
 
-| Proje | Açıklama | Teknolojiler | Linkler |
+| Project | Description | Technologies | Links |
 | :--- | :--- | :--- | :--- |
-| **A-R-WEB** | Uçakların çalışma prensiplerini, iç mekanizmalarını ve Türkiye'nin öne çıkan hava araçlarını anlatan modern tek sayfalık web sitesi. | HTML, CSS, JavaScript, SVG | [Repo](https://github.com/zeyneldemirdag/A-R-WEB) · [Canlı Demo](https://zeyneldemirdag.github.io/A-R-WEB/) |
-| **Bilgi Atlası** | Bilim, teknoloji, gelecek teknolojileri ve kitap notları için animasyonlu kişisel bilgi atlası microsite'ı. | HTML, CSS, JavaScript, Canvas | [Repo](https://github.com/zeyneldemirdag/A-R-WEB/tree/main/bilgi-atlasi) · [Canlı Demo](https://zeyneldemirdag.github.io/A-R-WEB/bilgi-atlasi/) |
-
-> Yeni frontend ve backend projelerimi burada düzenli olarak paylaşacağım.
+| **Personal Portfolio Website** | Animated professional portfolio with About, Projects, AI Lab sections, profile image, and a Node.js contact backend. | HTML, CSS, JavaScript, Node.js | In progress |
+| **Curriculum Intelligence Framework using GNN** | Research-focused work on curriculum and technology gap analysis using semantic embeddings, knowledge graphs, and Graph Neural Networks. | SBERT, NLP, Knowledge Graphs, GNN | Research project |
+| **Website Practice Series** | A practical web development series focused on responsive interfaces, form flows, and backend data handling. | HTML, CSS, PHP, SQL | In progress |
+| **A-R-WEB** | A modern aviation technology website explaining aircraft mechanics, internal systems, and national aviation platforms. | HTML, CSS, JavaScript, SVG | [Repo](https://github.com/zeyneldemirdag/A-R-WEB) · [Live Demo](https://zeyneldemirdag.github.io/A-R-WEB/) |
 
 ---
 
-## Odaklandığım Alanlar
+## Current Focus
 
 ```text
-Frontend       Responsive UI, modern CSS, React, component mantığı
-Backend        REST API, Node.js, Express, database bağlantıları
-Deployment     GitHub Pages, proje dokümantasyonu, canlı demo hazırlığı
-Security       SOC, SIEM, SOAR, firewall teknolojileri ve güvenli geliştirme
+Frontend       Responsive UI, modern CSS, JavaScript, React fundamentals
+Backend        REST APIs, Node.js, PHP, SQL, database-driven workflows
+AI             Semantic embeddings, NLP pipelines, graph-based modeling
+DevOps         Git, GitHub, project documentation, deployment readiness
+Security       SOC, SIEM, SOAR, firewall concepts, secure development mindset
 ```
 
 ---
 
-## GitHub İstatistikleri
+## GitHub Stats
 
 <div align="center">
 
@@ -87,6 +87,6 @@ Security       SOC, SIEM, SOAR, firewall teknolojileri ve güvenli geliştirme
 
 <div align="center">
 
-  <strong>İletişim için:</strong> <a href="mailto:z.dmrdg15@gmail.com">z.dmrdg15@gmail.com</a>
+  <strong>Contact:</strong> <a href="mailto:z.dmrdg15@gmail.com">z.dmrdg15@gmail.com</a>
 
 </div>
