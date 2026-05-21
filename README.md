@@ -57,6 +57,7 @@
 | Proje | Açıklama | Teknolojiler | Linkler |
 | :--- | :--- | :--- | :--- |
 | **A-R-WEB** | Uçakların çalışma prensiplerini, iç mekanizmalarını ve Türkiye'nin öne çıkan hava araçlarını anlatan modern tek sayfalık web sitesi. | HTML, CSS, JavaScript, SVG | [Repo](https://github.com/zeyneldemirdag/A-R-WEB) · [Canlı Demo](https://zeyneldemirdag.github.io/A-R-WEB/) |
+| **Bilgi Atlası** | Bilim, teknoloji, gelecek teknolojileri ve kitap notları için animasyonlu kişisel bilgi atlası microsite'ı. | HTML, CSS, JavaScript, Canvas | [Repo](https://github.com/zeyneldemirdag/A-R-WEB/tree/main/bilgi-atlasi) · [Canlı Demo](https://zeyneldemirdag.github.io/A-R-WEB/bilgi-atlasi/) |
 
 > Yeni frontend ve backend projelerimi burada düzenli olarak paylaşacağım.
 
