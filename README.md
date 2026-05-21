@@ -26,7 +26,7 @@
 
 ## About
 
-- I develop responsive web interfaces, landing pages, dashboards, and practical full-stack web projects.
+- I develop responsive web interfaces, landing pages, dashboards, local business websites, and practical full-stack web projects.
 - I focus on clean UI structure, interactive frontend behavior, and readable implementation.
 - On the backend side, I work with API design, data handling, database connections, and basic system architecture.
 - I deploy and present projects with custom-domain portfolio hosting, SSL, GitHub documentation, and live demos when possible.
@@ -60,6 +60,7 @@
 | Project | Description | Technologies | Links |
 | :--- | :--- | :--- | :--- |
 | **Professional Portfolio Website** | Custom-domain portfolio with animated sections, project filtering, profile visuals, SSL setup, and a lightweight Node.js contact backend. | HTML, CSS, JavaScript, Node.js, cPanel | [Live](https://zeyneldemirdag.com) |
+| **Elazig City Hospital Taxi Website** | Live local business website for a taxi service near Elazig City Hospital with call, WhatsApp, Instagram, gallery, service area, and location-focused sections. | HTML, CSS, JavaScript, Responsive UI | [Live Site](https://elazigsehirhastanesitaksi.com) |
 | **Rezerva Appointment Management System** | Business dashboard interface with booking form, live preview, schedule cards, team blocks, active navigation states, and animated feedback. | HTML, CSS, JavaScript | [Repo](https://github.com/zeyneldemirdag/A-R-WEB/tree/main/rezerva) |
 | **BMI & Blood Pressure Risk App** | University Flutter project for BMI calculation, blood pressure input, hypertension risk prediction flow, and local history tracking. | Flutter, Dart, HTTP API, Shared Preferences | [Repo](https://github.com/zeyneldemirdag/A-R-WEB/tree/main/bmi-blood-pressure-risk-app) |
 | **AIR WEB** | Animated aviation technology website explaining aircraft mechanics, internal systems, and national aviation platforms. | HTML, CSS, JavaScript, SVG | [Repo](https://github.com/zeyneldemirdag/A-R-WEB) · [Live Demo](https://zeyneldemirdag.github.io/A-R-WEB/) |
