@@ -27,8 +27,8 @@
 ## About
 
 - I develop responsive web interfaces, landing pages, dashboards, local business websites, and practical full-stack web projects.
-- I focus on clean UI structure, interactive frontend behavior, and readable implementation.
-- On the backend side, I work with API design, data handling, database connections, and basic system architecture.
+- I focus on clean UI structure, interactive frontend behavior, readable implementation, and project presentation.
+- On the backend side, I work with API design, data handling, JSON-based storage, database connections, and basic system architecture.
 - I deploy and present projects with custom-domain portfolio hosting, SSL, GitHub documentation, and live demos when possible.
 - My current technical direction combines frontend, backend, AI workflows, and graph-based data analysis.
 
@@ -61,12 +61,10 @@
 | :--- | :--- | :--- | :--- |
 | **Professional Portfolio Website** | Custom-domain portfolio with animated sections, project filtering, profile visuals, SSL setup, and a lightweight Node.js contact backend. | HTML, CSS, JavaScript, Node.js, cPanel | [Live](https://zeyneldemirdag.com) |
 | **Elazig City Hospital Taxi Website** | Live local business website for a taxi service near Elazig City Hospital with call, WhatsApp, Instagram, gallery, service area, and location-focused sections. | HTML, CSS, JavaScript, Responsive UI | [Live Site](https://elazigsehirhastanesitaksi.com) |
-| **Rezerva Appointment Management System** | Business dashboard interface with booking form, live preview, schedule cards, team blocks, active navigation states, and animated feedback. | HTML, CSS, JavaScript | [Repo](https://github.com/zeyneldemirdag/A-R-WEB/tree/main/rezerva) |
-| **BMI & Blood Pressure Risk App** | University Flutter project for BMI calculation, blood pressure input, hypertension risk prediction flow, and local history tracking. | Flutter, Dart, HTTP API, Shared Preferences | [Repo](https://github.com/zeyneldemirdag/A-R-WEB/tree/main/bmi-blood-pressure-risk-app) |
+| **Pazarix E-Commerce Experience** | Full-stack e-commerce demo with product search, category filtering, cart drawer, checkout interaction, Python backend endpoints, and JSON-based order storage. | HTML, CSS, JavaScript, Python API, JSON | [Repo](https://github.com/zeyneldemirdag/deneme-repo) |
 | **AIR WEB** | Animated aviation technology website explaining aircraft mechanics, internal systems, and national aviation platforms. | HTML, CSS, JavaScript, SVG | [Repo](https://github.com/zeyneldemirdag/A-R-WEB) · [Live Demo](https://zeyneldemirdag.github.io/A-R-WEB/) |
 | **Knowledge Atlas** | Animated personal knowledge atlas for science, technology, future systems, and book notes. | HTML, CSS, JavaScript, Canvas | [Repo](https://github.com/zeyneldemirdag/A-R-WEB/tree/main/bilgi-atlasi) · [Live Demo](https://zeyneldemirdag.github.io/A-R-WEB/bilgi-atlasi/) |
-| **Pazarix E-Commerce Experience** | Modern e-commerce interface with product search, category filtering, cart drawer, checkout interaction, Python backend endpoints, and animated feedback. | HTML, CSS, JavaScript, Python | [Repo](https://github.com/zeyneldemirdag/deneme-repo) |
-| **Curriculum Intelligence Framework using GNN** | Research-focused work on curriculum and technology gap analysis using semantic embeddings, knowledge graphs, and Graph Neural Networks. | SBERT, NLP, Knowledge Graphs, GNN | Research project |
+| **CYBER-AI** | Planned project area for AI-assisted security analysis, SOC note generation, log classification, and ethical lab workflows. | Python, AI, Cyber Security | [Repo](https://github.com/zeyneldemirdag/CYBER-AI) |
 
 ---
 
